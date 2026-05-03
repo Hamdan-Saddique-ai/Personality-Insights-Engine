@@ -2,6 +2,7 @@
 # 🧠 Personality Insights Engine
 
 🚀 *An AI-powered personality analysis system that transforms your answers into deep psychological insights.*
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/355ad67a-487e-4d9b-9c5f-e6e6022ae4e3" />
 
 ---
 
