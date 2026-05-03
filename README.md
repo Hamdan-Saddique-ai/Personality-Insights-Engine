@@ -72,9 +72,9 @@ Clear breakdown of what defines you
 
 ## 📸 Screens
 
-✨ Interactive Question Panel
-✨ AI Analysis Section
-✨ Personality Dashboard
+✨ Interactive Question Panel    
+✨ AI Analysis Section   
+✨ Personality Dashboard    
 
 ---
 
