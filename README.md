@@ -119,7 +119,7 @@ If you like this project:
 ## 🧑‍💻 Author
 
 **Hamdan Saddique**
-🚀 AI & Data Science Enthusiast
+
 
 ---
 
