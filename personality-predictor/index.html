@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personality Predictor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🧠 Personality Predictor</h1>
+            <p>Answer 20 questions to discover your personality traits</p>
+        </header>
+
+        <div id="quiz-container">
+            <div id="progress">
+                <div id="progress-bar"></div>
+            </div>
+            
+            <div id="question-container">
+                <div id="question-number"></div>
+                <div id="question-text"></div>
+                <div id="options-container"></div>
+            </div>
+
+            <div id="navigation">
+                <button id="prev-btn" disabled>← Previous</button>
+                <button id="next-btn">Next →</button>
+            </div>
+        </div>
+
+        <div id="result-container" style="display: none;">
+            <div class="result-card">
+                <h2>✨ Your Personality Profile ✨</h2>
+                <div id="personality-traits"></div>
+                <div id="personality-description"></div>
+                <button id="restart-btn">Take Test Again</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

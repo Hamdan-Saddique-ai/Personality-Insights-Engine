@@ -1,0 +1,245 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "You find it easy to introduce yourself to other people.",
+      "options": [
+        {"text": "Strongly Disagree", "score": 1, "trait": "introvert"},
+        {"text": "Disagree", "score": 2, "trait": "introvert"},
+        {"text": "Neutral", "score": 3, "trait": "ambivert"},
+        {"text": "Agree", "score": 4, "trait": "extrovert"},
+        {"text": "Strongly Agree", "score": 5, "trait": "extrovert"}
+      ]
+    },
+    {
+      "id": 2,
+      "text": "You often get so lost in thoughts that you ignore or forget your surroundings.",
+      "options": [
+        {"text": "Strongly Disagree", "score": 1, "trait": "practical"},
+        {"text": "Disagree", "score": 2, "trait": "practical"},
+        {"text": "Neutral", "score": 3, "trait": "balanced"},
+        {"text": "Agree", "score": 4, "trait": "imaginative"},
+        {"text": "Strongly Agree", "score": 5, "trait": "imaginative"}
+      ]
+    },
+    {
+      "id": 3,
+      "text": "You try to respond to your emails and messages as soon as possible.",
+      "options": [
+        {"text": "Strongly Disagree", "score": 1, "trait": "relaxed"},
+        {"text": "Disagree", "score": 2, "trait": "relaxed"},
+        {"text": "Neutral", "score": 3, "trait": "balanced"},
+        {"text": "Agree", "score": 4, "trait": "conscientious"},
+        {"text": "Strongly Agree", "score": 5, "trait": "conscientious"}
+      ]
+    },
+    {
+      "id": 4,
+      "text": "You enjoy social gatherings with lots of people.",
+      "options": [
+        {"text": "Strongly Disagree", "score": 1, "trait": "introvert"},
+        {"text": "Disagree", "score": 2, "trait": "introvert"},
+        {"text": "Neutral", "score": 3, "trait": "ambivert"},
+        {"text": "Agree", "score": 4, "trait": "extrovert"},
+        {"text": "Strongly Agree", "score": 5, "trait": "extrovert"}
+      ]
+    },
+    {
+      "id": 5,
+      "text": "You prefer to stick to routine and familiar places rather than exploring new ones.",
+      "options": [
+        {"text": "Strongly Disagree", "score": 1, "trait": "adventurous"},
+        {"text": "Disagree", "score": 2, "trait": "adventurous"},
+        {"text": "Neutral", "score": 3, "trait": "balanced"},
+        {"text": "Agree", "score": 4, "trait": "routine-oriented"},
+        {"text": "Strongly Agree", "score": 5, "trait": "routine-oriented"}
+      ]
+    },
+    {
+      "id": 6,
+      "text": "You often feel overwhelmed by your emotions.",
+      "options": [
+        {"text": "Strongly Disagree", "score": 1, "trait": "emotionally-stable"},
+        {"text": "Disagree", "score": 2, "trait": "emotionally-stable"},
+        {"text": "Neutral", "score": 3, "trait": "balanced"},
+        {"text": "Agree", "score": 4, "trait": "sensitive"},
+        {"text": "Strongly Agree", "score": 5, "trait": "sensitive"}
+      ]
+    },
+    {
+      "id": 7,
+      "text": "You enjoy working on creative projects (art, writing, music, etc.).",
+      "options": [
+        {"text": "Strongly Disagree", "score": 1, "trait": "practical"},
+        {"text": "Disagree", "score": 2, "trait": "practical"},
+        {"text": "Neutral", "score": 3, "trait": "balanced"},
+        {"text": "Agree", "score": 4, "trait": "creative"},
+        {"text": "Strongly Agree", "score": 5, "trait": "creative"}
+      ]
+    },
+    {
+      "id": 8,
+      "text": "You prefer to make decisions based on logic rather than feelings.",
+      "options": [
+        {"text": "Strongly Disagree", "score": 1, "trait": "emotional"},
+        {"text": "Disagree", "score": 2, "trait": "emotional"},
+        {"text": "Neutral", "score": 3, "trait": "balanced"},
+        {"text": "Agree", "score": 4, "trait": "logical"},
+        {"text": "Strongly Agree", "score": 5, "trait": "logical"}
+      ]
+    },
+    {
+      "id": 9,
+      "text": "You enjoy planning things well in advance.",
+      "options": [
+        {"text": "Strongly Disagree", "score": 1, "trait": "spontaneous"},
+        {"text": "Disagree", "score": 2, "trait": "spontaneous"},
+        {"text": "Neutral", "score": 3, "trait": "balanced"},
+        {"text": "Agree", "score": 4, "trait": "organized"},
+        {"text": "Strongly Agree", "score": 5, "trait": "organized"}
+      ]
+    },
+    {
+      "id": 10,
+      "text": "You find it difficult to say no to others.",
+      "options": [
+        {"text": "Strongly Disagree", "score": 1, "trait": "assertive"},
+        {"text": "Disagree", "score": 2, "trait": "assertive"},
+        {"text": "Neutral", "score": 3, "trait": "balanced"},
+        {"text": "Agree", "score": 4, "trait": "accommodating"},
+        {"text": "Strongly Agree", "score": 5, "trait": "accommodating"}
+      ]
+    },
+    {
+      "id": 11,
+      "text": "You enjoy leading groups or teams.",
+      "options": [
+        {"text": "Strongly Disagree", "score": 1, "trait": "follower"},
+        {"text": "Disagree", "score": 2, "trait": "follower"},
+        {"text": "Neutral", "score": 3, "trait": "balanced"},
+        {"text": "Agree", "score": 4, "trait": "leader"},
+        {"text": "Strongly Agree", "score": 5, "trait": "leader"}
+      ]
+    },
+    {
+      "id": 12,
+      "text": "You often question authority and traditional norms.",
+      "options": [
+        {"text": "Strongly Disagree", "score": 1, "trait": "traditional"},
+        {"text": "Disagree", "score": 2, "trait": "traditional"},
+        {"text": "Neutral", "score": 3, "trait": "balanced"},
+        {"text": "Agree", "score": 4, "trait": "rebellious"},
+        {"text": "Strongly Agree", "score": 5, "trait": "rebellious"}
+      ]
+    },
+    {
+      "id": 13,
+      "text": "You find it easy to stay calm under pressure.",
+      "options": [
+        {"text": "Strongly Disagree", "score": 1, "trait": "anxious"},
+        {"text": "Disagree", "score": 2, "trait": "anxious"},
+        {"text": "Neutral", "score": 3, "trait": "balanced"},
+        {"text": "Agree", "score": 4, "trait": "calm"},
+        {"text": "Strongly Agree", "score": 5, "trait": "calm"}
+      ]
+    },
+    {
+      "id": 14,
+      "text": "You enjoy learning new things for the sake of learning.",
+      "options": [
+        {"text": "Strongly Disagree", "score": 1, "trait": "indifferent"},
+        {"text": "Disagree", "score": 2, "trait": "indifferent"},
+        {"text": "Neutral", "score": 3, "trait": "balanced"},
+        {"text": "Agree", "score": 4, "trait": "curious"},
+        {"text": "Strongly Agree", "score": 5, "trait": "curious"}
+      ]
+    },
+    {
+      "id": 15,
+      "text": "You prefer working alone rather than in a team.",
+      "options": [
+        {"text": "Strongly Disagree", "score": 1, "trait": "team-player"},
+        {"text": "Disagree", "score": 2, "trait": "team-player"},
+        {"text": "Neutral", "score": 3, "trait": "balanced"},
+        {"text": "Agree", "score": 4, "trait": "independent"},
+        {"text": "Strongly Agree", "score": 5, "trait": "independent"}
+      ]
+    },
+    {
+      "id": 16,
+      "text": "You often feel envious of others' success.",
+      "options": [
+        {"text": "Strongly Disagree", "score": 1, "trait": "secure"},
+        {"text": "Disagree", "score": 2, "trait": "secure"},
+        {"text": "Neutral", "score": 3, "trait": "balanced"},
+        {"text": "Agree", "score": 4, "trait": "envious"},
+        {"text": "Strongly Agree", "score": 5, "trait": "envious"}
+      ]
+    },
+    {
+      "id": 17,
+      "text": "You enjoy helping others even at your own expense.",
+      "options": [
+        {"text": "Strongly Disagree", "score": 1, "trait": "selfish"},
+        {"text": "Disagree", "score": 2, "trait": "selfish"},
+        {"text": "Neutral", "score": 3, "trait": "balanced"},
+        {"text": "Agree", "score": 4, "trait": "altruistic"},
+        {"text": "Strongly Agree", "score": 5, "trait": "altruistic"}
+      ]
+    },
+    {
+      "id": 18,
+      "text": "You are always on time for appointments.",
+      "options": [
+        {"text": "Strongly Disagree", "score": 1, "trait": "unpunctual"},
+        {"text": "Disagree", "score": 2, "trait": "unpunctual"},
+        {"text": "Neutral", "score": 3, "trait": "balanced"},
+        {"text": "Agree", "score": 4, "trait": "punctual"},
+        {"text": "Strongly Agree", "score": 5, "trait": "punctual"}
+      ]
+    },
+    {
+      "id": 19,
+      "text": "You enjoy taking risks and trying extreme activities.",
+      "options": [
+        {"text": "Strongly Disagree", "score": 1, "trait": "risk-averse"},
+        {"text": "Disagree", "score": 2, "trait": "risk-averse"},
+        {"text": "Neutral", "score": 3, "trait": "balanced"},
+        {"text": "Agree", "score": 4, "trait": "adventurous"},
+        {"text": "Strongly Agree", "score": 5, "trait": "adventurous"}
+      ]
+    },
+    {
+      "id": 20,
+      "text": "You find it easy to forgive and forget.",
+      "options": [
+        {"text": "Strongly Disagree", "score": 1, "trait": "resentful"},
+        {"text": "Disagree", "score": 2, "trait": "resentful"},
+        {"text": "Neutral", "score": 3, "trait": "balanced"},
+        {"text": "Agree", "score": 4, "trait": "forgiving"},
+        {"text": "Strongly Agree", "score": 5, "trait": "forgiving"}
+      ]
+    }
+  ],
+  "personality_types": {
+    "extrovert": "You are an Extrovert! You thrive in social situations, gain energy from being around people, and enjoy being the center of attention. You're likely outgoing, talkative, and enthusiastic.",
+    "introvert": "You are an Introvert! You prefer quiet, low-key environments and need alone time to recharge. You're likely thoughtful, reserved, and enjoy deep conversations over small talk.",
+    "ambivert": "You are an Ambivert! You have a balance of extrovert and introvert traits. You enjoy socializing but also need alone time. You're flexible and adaptable in social situations.",
+    "imaginative": "You are Imaginative! You have a rich inner world, enjoy creative thinking, and often get lost in ideas and possibilities.",
+    "practical": "You are Practical! You focus on facts, reality, and tangible results. You're grounded, realistic, and solution-oriented.",
+    "creative": "You are Creative! You express yourself through art, music, writing, or other creative outlets. You see the world differently and enjoy innovation.",
+    "logical": "You are Logical! You make decisions based on reason and evidence rather than emotions. You're analytical, objective, and systematic.",
+    "emotional": "You are Emotional! You make decisions based on feelings and values. You're empathetic, compassionate, and value harmony.",
+    "organized": "You are Organized! You love planning, structure, and order. You're reliable, disciplined, and goal-oriented.",
+    "spontaneous": "You are Spontaneous! You prefer flexibility and living in the moment. You're adaptable, impulsive, and open to new experiences.",
+    "leader": "You are a Natural Leader! You take initiative, inspire others, and are comfortable making decisions for the group.",
+    "follower": "You are a Supporter! You work well in teams, follow through on tasks, and are reliable and cooperative.",
+    "curious": "You are Curious! You love learning, exploring new ideas, and understanding how things work. You're intellectually driven.",
+    "calm": "You are Calm! You handle pressure well, stay composed in difficult situations, and have good emotional regulation.",
+    "altruistic": "You are Altruistic! You genuinely care about others and often put their needs before your own. You're kind, generous, and empathetic.",
+    "independent": "You are Independent! You prefer to work alone, trust your own judgment, and are self-reliant and autonomous.",
+    "conscientious": "You are Conscientious! You're responsible, organized, and diligent. You take your commitments seriously.",
+    "adventurous": "You are Adventurous! You seek new experiences, love excitement, and aren't afraid to step out of your comfort zone.",
+    "forgiving": "You are Forgiving! You let go of grudges easily, understand human imperfection, and prioritize peace over being right."
+  }
+}
