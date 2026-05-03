@@ -1,5 +1,4 @@
-# Personality-Insights-Engine
-A machine learning–driven personality analysis tool that evaluates answers to reveal psychological traits and user behavior.”
+
 # 🧠 Personality Insights Engine
 
 🚀 *An AI-powered personality analysis system that transforms your answers into deep psychological insights.*
